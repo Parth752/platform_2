@@ -1,2 +1,2 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+# angryBirdsStage3
+Angry Birds stage 3 with Class Inheritance and Images
